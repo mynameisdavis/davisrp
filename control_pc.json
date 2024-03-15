@@ -12,8 +12,14 @@
       "date_close": "02.06.2024"
     },
     {
-      "token": "token2",
-      "user_id": 2222,
+      "token": "5e0c64c54b158312f21507062c2b79bc",
+      "user_id": 222,
+      "date_buy": "02.06.2023",
+      "date_close": "02.06.2024"
+    },
+    {
+      "token": "token3",
+      "user_id": 333,
       "date_buy": "01.01.2023",
       "date_close": "01.01.2024"
     }
