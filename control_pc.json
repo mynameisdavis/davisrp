@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "token": "token1",
+      "user_id": 1111,
+      "date_buy": "02.06.2023",
+      "date_close": "02.06.2024"
+    },
+    {
+      "token": "token2",
+      "user_id": 2222,
+      "date_buy": "01.01.2023",
+      "date_close": "01.01.2024"
+    }
+  ]
+}
