@@ -1,4 +1,7 @@
 {
+  "settings": {
+    "actual_v": "3.6"
+  },
   "users": [
     {
       "token": "token1",
