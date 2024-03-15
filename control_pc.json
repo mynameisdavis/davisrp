@@ -1,7 +1,8 @@
 {
   "settings": {
     "actual_v": "3.6",
-    "version_link": "https://mynameisdavis.github.io/control_pc/v3.6.exe"
+    "version_link": "https://mynameisdavis.github.io/control_pc/v3.6.exe",
+    "free_mode": 0
   },
   "users": [
     {
